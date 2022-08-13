@@ -20,7 +20,7 @@ On the other hand, it even helps to get better insights about the customers’ b
 * Feasible rates
 * More efforts are required to put data under the CRM system
 
-** Why Choose Meetanshi for Magento CRM Integration Service?**
+**Why Choose Meetanshi for Magento CRM Integration Service?**
 
 * Certified Magento developers
 * On-time delivery
